@@ -1,0 +1,11 @@
+# Binarios y archivos de compilación
+*.exe
+*.o
+*.out
+
+# Archivos temporales o de sistema
+Thumbs.db
+*.tmp
+
+# Nota: Se mantienen los archivos .dev y Makefile.win por su valor histórico
+# en el contexto del uso de Dev-C++ en 2013.
